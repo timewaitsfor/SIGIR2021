@@ -1,0 +1,10 @@
+# pycharm 配置文件
+.idea
+__pycache__
+data/
+Save_model/
+logs/
+
+
+
+
